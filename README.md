@@ -9,9 +9,13 @@
 </h2>
 
 - 💻 Web Development | Backend
+
 - 🗺 Brazil
+
 - 📖 College | Systems Development
+
 - 📫 victor.monteiro04@hotmail.com
+
 - 🤓 Music, Cinema and Games
   
 <h2>
