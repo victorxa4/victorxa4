@@ -1,3 +1,10 @@
+
+<div align="center">
+  <img height="180em" src="https://media.tenor.com/nSP-290dh3UAAAAC/anime-musioc.gif"/>
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/victorxa4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxa4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -6,7 +13,7 @@
   
 ##
   
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -18,11 +25,10 @@
 </div>
   
 ##
+ 
+- 💻 Web Development | Backend
+- 🗺 Brazil
+- 📖 College | Systems Development
+- 📫 victor.monteiro04@hotmail.com
   
-<!-- - 🔭 I’m currently working on ... 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-- 🔭 Focando em Backend
-<!-- - 🌱 Estudando C# -->
-- 📫 Contato: victor.monteiro04@hotmail.com
-- 😄 Pronomes: ele/dele
+##
