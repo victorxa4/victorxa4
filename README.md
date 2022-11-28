@@ -3,12 +3,10 @@
   <img height="180em" src="https://media.tenor.com/nSP-290dh3UAAAAC/anime-musioc.gif"/>
 </div>
 
-##
-
-<div>
+<h2>
   <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" height="25px">
   Stats:
-</div>
+</h2>
 
 <div align="center">
   <a href="https://github.com/victorxa4">
