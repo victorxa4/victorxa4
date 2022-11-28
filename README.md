@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <img height="180em" src="https://media.tenor.com/nSP-290dh3UAAAAC/anime-musioc.gif"/>
 </div>
