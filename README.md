@@ -23,17 +23,17 @@
 </h2>
 
 <div>
-  <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" />
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+
 </div>
 
 <h2>
