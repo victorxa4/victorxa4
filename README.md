@@ -4,7 +4,7 @@
 </div>
 
 <h2>
-  <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" height="30px">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" height="25px">
   Stats:
 </h2>
 
