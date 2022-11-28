@@ -1,7 +1,7 @@
 
 <div align="center">
   <img height="180em" src="https://media.tenor.com/nSP-290dh3UAAAAC/anime-musioc.gif"/>
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75wWsBgpiAqUGfhZ1RpzFR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/75wWsBgpiAqUGfhZ1RpzFR?si=8ea3b6727c5b423a)
 </div>
 
 ##
