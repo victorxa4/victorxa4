@@ -6,7 +6,7 @@
 ##
 
 <h2>
-  <img src="[https://thumbs.gfycat.com/FriendlyGreedyDromaeosaur-max-1mb.gif](https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif)" height="25px">
+  <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" height="25px">
   Stats:
 </h2>
 
