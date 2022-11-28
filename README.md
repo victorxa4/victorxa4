@@ -1,9 +1,18 @@
 
 <div align="center">
   <img height="180em" src="https://media.tenor.com/nSP-290dh3UAAAAC/anime-musioc.gif"/>
-  ![](https://open.spotify.com/track/75wWsBgpiAqUGfhZ1RpzFR?si=8ea3b6727c5b423a)
-</div>
-
+  <table>
+    <thead>
+      <tr>
+        <th>📈 Top Track</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+      </tr>
+    </tbody>
+  </table>
 ##
 
 <div align="center">
