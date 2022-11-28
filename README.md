@@ -5,10 +5,10 @@
 
 ##
 
-<h2>
+<div>
   <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" height="25px">
   Stats:
-</h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/victorxa4">
