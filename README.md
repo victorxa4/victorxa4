@@ -30,7 +30,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
   
-##
+<h2>
+  <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" width="40px">
+  Info:
+</h2>
 
 - 💻 Web Development | Backend
 - 🗺 Brazil
