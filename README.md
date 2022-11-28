@@ -1,7 +1,8 @@
 
 <div align="center">
   <img height="180em" src="https://media.tenor.com/nSP-290dh3UAAAAC/anime-musioc.gif"/>
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/[omnitenebris](https://open.spotify.com/user/22swepfplyshcppdqcmcotany))
+</div>
+
 ##
 
 <div align="center">
@@ -29,5 +30,3 @@
 - 🗺 Brazil
 - 📖 College | Systems Development
 - 📫 victor.monteiro04@hotmail.com
-  
-##
