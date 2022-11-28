@@ -5,13 +5,14 @@
 
 <h2>
   <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" width="40px">
-  Stats:
+  Info:
 </h2>
 
-<div align="center">
-  <a href="https://github.com/victorxa4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxa4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxa4&layout=compact&langs_count=7&theme=merko"/>
+<div>
+  - 💻 Web Development | Backend
+  - 🗺 Brazil
+  - 📖 College | Systems Development
+  - 📫 victor.monteiro04@hotmail.com
 </div>
   
 <h2>
@@ -29,13 +30,14 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
-  
+
 <h2>
   <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" width="40px">
-  Info:
+  Stats:
 </h2>
 
-- 💻 Web Development | Backend
-- 🗺 Brazil
-- 📖 College | Systems Development
-- 📫 victor.monteiro04@hotmail.com
+<div align="center">
+  <a href="https://github.com/victorxa4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxa4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxa4&layout=compact&langs_count=7&theme=merko"/>
+</div>
