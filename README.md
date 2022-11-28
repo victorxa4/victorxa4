@@ -25,4 +25,4 @@
 - 🔭 Focando em Backend
 - 🌱 Estudando C#
 - 📫 Contato: victor.monteiro04@hotmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
