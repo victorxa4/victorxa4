@@ -1,3 +1,4 @@
+---
 
 <div align="center">
   <img height="180em" src="https://media.tenor.com/nSP-290dh3UAAAAC/anime-musioc.gif"/>
@@ -44,3 +45,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxa4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorxa4&layout=compact&langs_count=7&theme=merko"/>
 </div>
+
+---
