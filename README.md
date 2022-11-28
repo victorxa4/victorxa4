@@ -5,6 +5,11 @@
 
 ##
 
+<h2>
+  <img src="[https://thumbs.gfycat.com/FriendlyGreedyDromaeosaur-max-1mb.gif](https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif)" height="25px">
+  Stats:
+</h2>
+
 <div align="center">
   <a href="https://github.com/victorxa4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorxa4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -12,6 +17,11 @@
 </div>
   
 ##
+  
+<h2>
+  <img src="https://thumbs.gfycat.com/FriendlyGreedyDromaeosaur-max-1mb.gif" width="25px">
+  Languages and Tools:
+</h2>
 
 <div align="center">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
