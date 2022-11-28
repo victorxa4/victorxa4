@@ -1,18 +1,7 @@
 
 <div align="center">
   <img height="180em" src="https://media.tenor.com/nSP-290dh3UAAAAC/anime-musioc.gif"/>
-  <table>
-    <thead>
-      <tr>
-        <th>📈 Top Track</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
-      </tr>
-    </tbody>
-  </table>
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/[omnitenebris](https://open.spotify.com/user/22swepfplyshcppdqcmcotany))
 ##
 
 <div align="center">
