@@ -8,12 +8,10 @@
   Info:
 </h2>
 
-<div>
-  - 💻 Web Development | Backend
-  - 🗺 Brazil
-  - 📖 College | Systems Development
-  - 📫 victor.monteiro04@hotmail.com
-</div>
+- 💻 Web Development | Backend
+- 🗺 Brazil
+- 📖 College | Systems Development
+- 📫 victor.monteiro04@hotmail.com
   
 <h2>
   <img src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-1181.gif" width="40px">
